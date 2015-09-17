@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://kangdejung.github.io/sample1.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://kangdejung.github.io/sample1.html
+IDList=
